@@ -32,6 +32,7 @@ footer{
 
 h1{
     margin-bottom: 1em;
+    text-align: center;
 }
 
 
@@ -49,8 +50,37 @@ li{
 }
 
 
+
+
+section{
+    margin-top: 3em;
+}
+
 section img{
     width: 800px;
+}
+
+
+.img_title{
+    font-size: 1.2em;
+    margin-top: 3em;
+}
+
+
+/* Название группы */
+.group{
+    font-weight: 600;
+    color: #333;
+}
+
+.dates{
+    padding: 0 2em;
+    font-size: 1.2em;
+    font-family: monospace;
+}
+
+.img_title img{
+    margin-top: 0.2em;
 }
 
 
