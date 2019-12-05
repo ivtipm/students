@@ -37,7 +37,9 @@ h1{
 
 
 h2{
-    margin-top: 1.7em;
+/*     margin-top: 2em; */
+/*     margin-bottom: 1em; */
+    text-align: center;
 }
 
 li{
@@ -61,8 +63,8 @@ section img{
 }
 
 
+/* Картинка с подписями */
 .img_title{
-    font-size: 1.2em;
     margin-top: 3em;
 }
 
@@ -73,6 +75,16 @@ section img{
     color: #333;
 }
 
+
+.group-big{
+    display: block;
+    font-family: serif;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0.5em 0;
+}
+
+/* Даты листка с посещаемостью */
 .dates{
     padding: 0 2em;
     font-size: 1.2em;
@@ -91,13 +103,13 @@ section img{
     }
     
     h1{
-        font-size: 36px; 
-        line-height: 0.9em;
-        color: #666;
+/*         font-size: 36px;  */
+/*         line-height: 0.9em; */
+/*         color: #666; */
     }
     
     h2{
-        font-size: 40px;
+/*         font-size: 40px; */
     }
     
 }
